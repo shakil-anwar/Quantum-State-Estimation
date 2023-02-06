@@ -2,3 +2,5 @@ tasks:
   - name: Run jupyter notebook
     command: |
       jupyter notebook *.ipynb
+
+      jupyter notebook quantum-state-estimation-float.ipynb
